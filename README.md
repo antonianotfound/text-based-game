@@ -1,2 +1,1 @@
-# text-based-game
-My cat cafe themed, text-based game! 
+I created a text-based game in Python that pushed my programming skills to new limits. The project required me to design a dictionary to store game data in order to allow for dynamic player interactions and content. The main loop was extremely condensed and took me the longest to perfect, ultimately providing me with a fun and rewarding experience. I learned how to apply logic, imporove my coding structure, and enhance functionality as well as effectively locate bugs. I enjoyed making an adorable game that allowed me to explore with my imagination. After this project, my efficiency in Python has signficantly heightened. 
